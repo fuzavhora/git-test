@@ -1,1 +1,2 @@
-console.log(Array.from("fuzail"))
+console.log(Array.from("fuzail"));
+
